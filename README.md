@@ -64,5 +64,3 @@ We’ll review and merge!
 
 🐞 Issues & Feedback
 Found a bug or have a suggestion? Please create an issue.
-
-📄 License
