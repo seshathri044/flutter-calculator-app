@@ -17,25 +17,18 @@ _Add here screenshots or a GIF to showcase the app in action._
    ```bash
    git clone https://github.com/seshathri044/flutter-calculator-app.git
    cd flutter-calculator-app```
-
 2.Install dependencies
+ ```bash
 flutter pub get
+```
 3.Run the app
-
-bash
-Copy
-Edit
+ ```bash
 flutter run
+```
 For web: flutter run -d chrome
 
 🧩 Code Structure
-lib/main.dart – App entry point and theme setup
-
-lib/screens/ – UI screens (calculator display and buttons)
-
-lib/widgets/ – Reusable widgets (e.g. button)
-
-lib/utils/ – Utility/helper functions (e.g. expression evaluation)
+lib/main.dart – App entry point and Whole code is in this file
 
 ⚙️ Usage
 Press digits and operators to build expressions
