@@ -1,4 +1,3 @@
-# flutter-calculator
 # Flutter Calculator App
 
 A simple and elegant calculator app built with Flutter, offering basic arithmetic operations and a sleek UI.
