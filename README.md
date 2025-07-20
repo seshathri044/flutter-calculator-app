@@ -42,18 +42,11 @@ Use AC to clear the entire expression
 🛠️ How It Works
 UI Layout – A display for expression/result and a grid of buttons.
 
-Button Handler – Appends input or performs actions (clear, delete, evaluate).
+Button Handler – Appends input or performs actions (clear and Arithmetic Operation).
 
 Expression Evaluation – Uses math_expressions package to parse and compute the result.
 
-📦 Dependencies
-See pubspec.yaml for full list, including:
-
-math_expressions – For parsing and evaluating expressions
-
-provider or flutter_bloc (optional) – For managing state (if used)
-
-🤝 Contributing
+## 🤝 Contributing
 Fork the repo and create a branch (feature/xyz)
 
 Make your changes and test
@@ -62,5 +55,5 @@ Submit a pull request with a detailed description
 
 We’ll review and merge!
 
-🐞 Issues & Feedback
+## 🐞 Issues & Feedback
 Found a bug or have a suggestion? Please create an issue.
