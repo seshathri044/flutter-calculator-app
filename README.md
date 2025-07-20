@@ -35,9 +35,7 @@ Press digits and operators to build expressions
 
 Tap = to calculate the result
 
-Use DEL to remove the last character
-
-Use AC to clear the entire expression
+Use CLEAR to clear the entire expression
 
 🛠️ How It Works
 UI Layout – A display for expression/result and a grid of buttons.
