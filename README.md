@@ -1,8 +1,6 @@
 # Flutter Calculator App
 
 A simple and elegant calculator app built with Flutter, offering basic arithmetic operations and a sleek UI.
-<img width="1920" height="1080" alt="flutter6" src="https://github.com/user-attachments/assets/6d85b813-3232-48f2-80fb-ad31f3268731" />
-
 
 ## 🎯 Features
 - ✅ Addition, subtraction, multiplication, and division  
