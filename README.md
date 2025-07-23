@@ -1,5 +1,5 @@
 # Flutter Calculator App
-<img width="1920" height="1020" alt="calc" src="https://github.com/user-attachments/assets/d4b5fbeb-b8ab-422e-afb8-7a15426a3431" />
+
 
 A simple and elegant calculator app built with Flutter, offering basic arithmetic operations and a sleek UI.
 
@@ -10,7 +10,7 @@ A simple and elegant calculator app built with Flutter, offering basic arithmeti
 - 🎨 Dark themes 
 
 ## 🖼️ Screenshots / Demo
-_Add here screenshots or a GIF to showcase the app in action._
+<img width="1920" height="1020" alt="calc" src="https://github.com/user-attachments/assets/d4b5fbeb-b8ab-422e-afb8-7a15426a3431" />
 
 ## 🚀 Installation & Setup
 
